@@ -22,18 +22,18 @@ namespace Dashboard_ControlAccess {
 
         void pivotGridControl_CustomCellValue(object sender, PivotCellValueEventArgs e) {
             if (e.Value != null && (decimal)e.Value < 2000)
-                e.Value = 0;
+                e.Value = "Too low to show";
         }
 
         private void dashboardViewer1_DashboardItemControlUpdated(object sender, 
             DashboardItemControlEventArgs e) {
             if (e.DashboardItemName == "gridDashboardItem1") {
                 GridView gridView = e.GridControl.MainView as GridView;
-                gridView.Appearance.Row.Font = new Font("Arial", 10);
+                gridView.Appearance.Row.Font = new Font("Segoe Script", 10);
             }
             if (e.DashboardItemName == "chartDashboardItem1") {
                 ChartControl chartControl = e.ChartControl;                
-                ((XYDiagram)chartControl.Diagram).Panes[0].BackColor = Color.AliceBlue;
+                ((XYDiagram)chartControl.Diagram).Panes[0].BackColor = Color.Orange;
             }
         }
 

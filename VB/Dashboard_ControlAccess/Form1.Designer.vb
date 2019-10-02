@@ -33,8 +33,6 @@
 			Me.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill
 			Me.dashboardViewer1.Location = New System.Drawing.Point(0, 0)
 			Me.dashboardViewer1.Name = "dashboardViewer1"
-			Me.dashboardViewer1.PrintingOptions.FontInfo.GdiCharSet = (CByte(0))
-			Me.dashboardViewer1.PrintingOptions.FontInfo.Name = Nothing
 			Me.dashboardViewer1.Size = New System.Drawing.Size(808, 454)
 			Me.dashboardViewer1.TabIndex = 0
 'INSTANT VB NOTE: The following InitializeComponent event wireup was converted to a 'Handles' clause:

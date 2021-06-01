@@ -12,10 +12,10 @@ In this example, the following options are changed:
 
 * The row font is changed in the underlying grid control in the [DashboardViewer.DashboardItemControlUpdated](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemControlUpdated) event handler.
 * The background color of the chart's pane is changed in the [DashboardViewer.DashboardItemControlUpdated](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemControlUpdated) event handler.
-* Cell values in the underlying pivot grid control are changed in the [PivotGridControl.CustomCellValue](https://docs.devexpress.com/WinForms/DevExpress.XtraPivotGrid.PivotGridControl.CustomCellValue) event handler. Subscription and unsubscription to/from the CustomCellValue event are performed in the [DashboardViewer.DashboardItemControlCreated](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemControlCreated) and [DashboardViewer.DashboardItemBeforeControlDisposed](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemBeforeControlDisposed) event handlers respectively.
+* Cell values in the underlying pivot grid control are changed in the [PivotGridControl.CustomCellValue](https://docs.devexpress.com/WindowsForms/DevExpress.XtraPivotGrid.PivotGridControl.CustomCellValue) event handler. Subscription and unsubscription to/from the CustomCellValue event are performed in the [DashboardViewer.DashboardItemControlCreated](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemControlCreated) and [DashboardViewer.DashboardItemBeforeControlDisposed](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemBeforeControlDisposed) event handlers respectively.
 
 ![screenshot](/images/screenshot.png)
 
-## See Also:
+## More Examples:
 
 - [Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019)

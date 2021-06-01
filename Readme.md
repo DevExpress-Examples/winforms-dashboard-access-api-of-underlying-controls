@@ -16,6 +16,6 @@ In this example, the following options are changed:
 
 ![screenshot](/images/screenshot.png)
 
-## More Examples:
+## More Examples
 
 - [Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019)

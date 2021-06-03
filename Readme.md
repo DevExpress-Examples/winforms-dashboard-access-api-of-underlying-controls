@@ -18,9 +18,9 @@ In this example, the following options are changed:
 
 ## Documentation
 
-[Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019/winforms-dashboard/winforms-viewer/access-to-underlying-controls)
-[Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/401193/common-features/underlying-and-displayed-data/underlying-data)
-[Obtaining Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/17269/winforms-dashboard/winforms-viewer/obtaining-underlying-and-displayed-data)
+* [Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019/winforms-dashboard/winforms-viewer/access-to-underlying-controls)
+* [Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/401193/common-features/underlying-and-displayed-data/underlying-data)
+* [Obtaining Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/17269/winforms-dashboard/winforms-viewer/obtaining-underlying-and-displayed-data)
 
 ## More Examples
 

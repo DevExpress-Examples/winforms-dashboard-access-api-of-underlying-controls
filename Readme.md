@@ -3,7 +3,7 @@
 
 * [Form1.cs](./CS/Dashboard_ControlAccess/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ControlAccess/Form1.vb))
 <!-- default file list end -->
-# How to Access Underlying Controls in the WinForms Viewer
+# Dashboard for WinForms - How to Access Underlying Controls in the WinForms Viewer
 
 
 The following example demonstrates how to customize controls used to visualize data within dashboard items at runtime.
